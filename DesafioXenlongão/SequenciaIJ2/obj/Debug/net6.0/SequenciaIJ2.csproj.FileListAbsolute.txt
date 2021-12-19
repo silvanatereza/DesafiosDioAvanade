@@ -1,0 +1,15 @@
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\bin\Debug\net6.0\SequenciaIJ2.exe
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\bin\Debug\net6.0\SequenciaIJ2.deps.json
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\bin\Debug\net6.0\SequenciaIJ2.runtimeconfig.json
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\bin\Debug\net6.0\SequenciaIJ2.dll
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\bin\Debug\net6.0\ref\SequenciaIJ2.dll
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\bin\Debug\net6.0\SequenciaIJ2.pdb
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\SequenciaIJ2.csproj.AssemblyReference.cache
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\SequenciaIJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\SequenciaIJ2.AssemblyInfoInputs.cache
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\SequenciaIJ2.AssemblyInfo.cs
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\SequenciaIJ2.csproj.CoreCompileInputs.cache
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\SequenciaIJ2.dll
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\ref\SequenciaIJ2.dll
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\SequenciaIJ2.pdb
+C:\DesafiosC#\DesafioXenlongão\SequenciaIJ2\obj\Debug\net6.0\SequenciaIJ2.genruntimeconfig.cache

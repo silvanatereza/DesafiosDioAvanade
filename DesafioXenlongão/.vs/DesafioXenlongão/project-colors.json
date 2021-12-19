@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b9ebb5f-72d0-4a45-8e53-10de88b5b5c4": {
+      "ProjectGuid": "8b9ebb5f-72d0-4a45-8e53-10de88b5b5c4",
+      "DisplayName": "DesafioXenlongão",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\bin\Debug\net6.0\VaiTerCopa.exe
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\bin\Debug\net6.0\VaiTerCopa.deps.json
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\bin\Debug\net6.0\VaiTerCopa.runtimeconfig.json
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\bin\Debug\net6.0\VaiTerCopa.dll
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\bin\Debug\net6.0\ref\VaiTerCopa.dll
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\bin\Debug\net6.0\VaiTerCopa.pdb
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\obj\Debug\net6.0\VaiTerCopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\obj\Debug\net6.0\VaiTerCopa.AssemblyInfoInputs.cache
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\obj\Debug\net6.0\VaiTerCopa.AssemblyInfo.cs
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\obj\Debug\net6.0\VaiTerCopa.csproj.CoreCompileInputs.cache
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\obj\Debug\net6.0\VaiTerCopa.dll
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\obj\Debug\net6.0\ref\VaiTerCopa.dll
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\obj\Debug\net6.0\VaiTerCopa.pdb
+C:\DesafiosC#\DesafioXenlongão\VaiTerCopa\obj\Debug\net6.0\VaiTerCopa.genruntimeconfig.cache

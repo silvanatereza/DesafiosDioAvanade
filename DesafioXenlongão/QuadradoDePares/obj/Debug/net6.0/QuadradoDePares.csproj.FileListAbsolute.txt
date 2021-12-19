@@ -1,0 +1,14 @@
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\bin\Debug\net6.0\QuadradoDePares.exe
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\bin\Debug\net6.0\QuadradoDePares.deps.json
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\bin\Debug\net6.0\QuadradoDePares.runtimeconfig.json
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\bin\Debug\net6.0\QuadradoDePares.dll
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\bin\Debug\net6.0\ref\QuadradoDePares.dll
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\bin\Debug\net6.0\QuadradoDePares.pdb
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\obj\Debug\net6.0\QuadradoDePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\obj\Debug\net6.0\QuadradoDePares.AssemblyInfoInputs.cache
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\obj\Debug\net6.0\QuadradoDePares.AssemblyInfo.cs
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\obj\Debug\net6.0\QuadradoDePares.csproj.CoreCompileInputs.cache
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\obj\Debug\net6.0\QuadradoDePares.dll
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\obj\Debug\net6.0\ref\QuadradoDePares.dll
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\obj\Debug\net6.0\QuadradoDePares.pdb
+C:\DesafiosC#\DesafioXenlongão\QuadradoDePares\obj\Debug\net6.0\QuadradoDePares.genruntimeconfig.cache

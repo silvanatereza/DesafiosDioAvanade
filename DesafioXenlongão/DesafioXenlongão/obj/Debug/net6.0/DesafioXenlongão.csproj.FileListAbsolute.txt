@@ -1,0 +1,15 @@
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\bin\Debug\net6.0\DesafioXenlongão.exe
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\bin\Debug\net6.0\DesafioXenlongão.deps.json
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\bin\Debug\net6.0\DesafioXenlongão.runtimeconfig.json
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\bin\Debug\net6.0\DesafioXenlongão.dll
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\bin\Debug\net6.0\ref\DesafioXenlongão.dll
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\bin\Debug\net6.0\DesafioXenlongão.pdb
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\DesafioXenlongão.csproj.AssemblyReference.cache
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\DesafioXenlongão.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\DesafioXenlongão.AssemblyInfoInputs.cache
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\DesafioXenlongão.AssemblyInfo.cs
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\DesafioXenlongão.csproj.CoreCompileInputs.cache
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\DesafioXenlongão.dll
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\ref\DesafioXenlongão.dll
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\DesafioXenlongão.pdb
+C:\DesafiosC#\DesafioXenlongão\DesafioXenlongão\obj\Debug\net6.0\DesafioXenlongão.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\bin\Debug\net6.0\SucessoPar.exe
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\bin\Debug\net6.0\SucessoPar.deps.json
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\bin\Debug\net6.0\SucessoPar.runtimeconfig.json
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\bin\Debug\net6.0\SucessoPar.dll
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\bin\Debug\net6.0\ref\SucessoPar.dll
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\bin\Debug\net6.0\SucessoPar.pdb
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\SucessoPar.csproj.AssemblyReference.cache
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\SucessoPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\SucessoPar.AssemblyInfoInputs.cache
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\SucessoPar.AssemblyInfo.cs
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\SucessoPar.csproj.CoreCompileInputs.cache
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\SucessoPar.dll
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\ref\SucessoPar.dll
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\SucessoPar.pdb
+C:\DesafiosC#\DesafioXenlongão\SucessoPar\obj\Debug\net6.0\SucessoPar.genruntimeconfig.cache
